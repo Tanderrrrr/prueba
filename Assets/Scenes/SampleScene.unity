@@ -125,6 +125,7 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &4949590
 GameObject:
   m_ObjectHideFlags: 0
@@ -8310,6 +8311,8 @@ Tilemap:
 >>>>>>> parent of c2575a0 (todo el asset)
 =======
 >>>>>>> parent of c2575a0 (todo el asset)
+=======
+>>>>>>> parent of c2575a0 (todo el asset)
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -8393,6 +8396,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &549389191
@@ -10621,6 +10625,8 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+>>>>>>> parent of c2575a0 (todo el asset)
 =======
 >>>>>>> parent of c2575a0 (todo el asset)
 =======
